@@ -1,30 +1,49 @@
 # Salon Business Performance Analysis
 
 ## Overview
-This project analyzes the performance of a salon business using SQL. The goal is to understand revenue trends, customer behavior, and key business drivers.
+This project analyzes salon business performance to identify revenue drivers, customer behavior patterns, and operational insights for decision-making.
+
+## Business Problem
+The objective of this analysis is to evaluate overall business performance and identify the key drivers of revenue and customer behavior to support data-driven decision-making.
 
 ## Tools Used
-- Microsoft Excel
-- SQL (MySQL)
+- Microsoft Excel (data collection and preparation)
+- SQL (MySQL) for data extraction, transformation, and analysis
+
+## Project Structure
+- analysis.sql → All SQL queries used for analysis
+- README.md → Project documentation and insights
+
+## Skills Demonstrated
+- Excel: Data cleaning (TRIM), data validation, lookup functions
+- SQL: Aggregations, CTEs, CASE statements, window functions
 
 ## Analysis Performed
 - Revenue analysis
-- Customer segmentation
+- Customer behavior and segmentation
 - Staff performance analysis
-- Trend analysis
+- Trend analysis (daily revenue patterns)
 - Pricing and service analysis
 
 ## Key Insights
-- Revenue fluctuates, indicating inconsistent booking patterns
-- Customer retention is low
-- High-value services generate most of the revenue
-- Repeat customers contribute significantly to total revenue
+- Revenue shows fluctuations, indicating inconsistent booking patterns
+- Customer retention is low, affecting revenue stability
+- High-value services contribute the majority of total revenue
+- Repeat customers account for a significant portion of revenue (~70%)
+- High-value customers are largely repeat customers
 
 ## Recommendations
-- Promote high-value services
-- Improve customer retention strategies
-- Enhance customer experience
-- Reward top-performing staff
+- Promote high-value services to maximize revenue
+- Implement customer retention strategies (e.g., loyalty programs)
+- Enhance customer experience to encourage repeat visits
+- Introduce incentives for top-performing staff
 
-## Files in This Project
-- `analysis.sql` → SQL queries used for analysis
+## Next Steps
+1. Implement and monitor customer retention initiatives
+2. Optimize promotion of high-value services
+3. Continuously track business performance metrics
+4. Test and refine pricing strategies
+5. Develop upselling and cross-selling strategies
+
+## Conclusion
+This project demonstrates my ability to analyze business data using SQL and generate actionable insights for decision-making.
