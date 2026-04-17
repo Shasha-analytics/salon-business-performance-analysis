@@ -35,13 +35,15 @@ The objective of this analysis is to evaluate overall business performance and i
 ## Visual Insights
 
 ### Total Revenue
-![Total Revenue](revenue-summary.png)
+![Total Revenue](
+https://github.com/Shasha-analytics/salon-business-performance-analysis/blob/main/Revenue-summary.png?raw=true
+)
 
 ### Revenue by Service
-![Revenue by Service](revenue-by-service.png)
+![Revenue by Service](https://github.com/Shasha-analytics/salon-business-performance-analysis/blob/main/Revenue-by-service.png?raw=true)
 
 ### Customer Segmentation
-![Customer Segmentation](customer-segmentation.png)
+![Customer Segmentation](https://github.com/Shasha-analytics/salon-business-performance-analysis/blob/main/Customer-segmentation.png?raw=true)
 
 ## Recommendations
 - Promote high-value services to maximize revenue
