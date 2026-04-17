@@ -32,6 +32,17 @@ The objective of this analysis is to evaluate overall business performance and i
 - Repeat customers account for a significant portion of revenue (~70%)
 - High-value customers are largely repeat customers
 
+## Visual Insights
+
+### Total Revenue
+![Total Revenue](revenue-summary.png)
+
+### Revenue by Service
+![Revenue by Service](revenue-by-service.png)
+
+### Customer Segmentation
+![Customer Segmentation](customer-segmentation.png)
+
 ## Recommendations
 - Promote high-value services to maximize revenue
 - Implement customer retention strategies (e.g., loyalty programs)
